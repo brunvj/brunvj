@@ -1,11 +1,15 @@
 ### Hi there 👋
-
+#### 🔭 I’m currently hardening my C++, Python, and HDL skills for the season and moving onto projects in the future!
+#### Look forward to my projects:
+- Object detection using TFLite, Android, and a custom-engineered tiny-UAV on the [Google Dev Board Mini](https://coral.ai/products/dev-board-mini/)
+- Various C/C++ projects
+- Various VHDL/Verilog projects on the [Basys 3 Board](https://www.xilinx.com/products/boards-and-kits/1-54wqge.html)
 <!--
 **brunvj/brunvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
